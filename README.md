@@ -20,7 +20,7 @@ Ensure you have the following installed on your system:
 ### **2. Clone the Repository**  
 If you haven't already, clone this repository using Git:  
 ```bash
-git clone https://github.com/your-username/CRUDPHP.git
+git clone https://github.com/Alfred336/CRUDPHP.git
 cd CRUDPHP
 ```
 If you don’t have Git, you can download the ZIP file from GitHub and extract it manually.  
